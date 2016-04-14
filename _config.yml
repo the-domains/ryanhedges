@@ -1,0 +1,28 @@
+name: ryanhedges
+favicon: null
+layout_spectrum: 0.06055398052558303
+typography_spectrum: 0.9322567021008581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5017562746070325
+  lightness: 0.8948059692047536
+  saturation: 0.4885688894428313
+  rhythmicContrast: 0.9092095152009279
+purpose: []
